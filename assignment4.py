@@ -1,6 +1,6 @@
-#!python3
-
+#!/usr/bin/env python3
+'''
 Modify this program using comment structures so that
 only the print statement is executed.
-
+'''
 print("Hello!")
